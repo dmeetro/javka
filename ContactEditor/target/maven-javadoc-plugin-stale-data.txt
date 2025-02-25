@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'E:/java/ContactEditor/src/main/java;E:/java/ContactEditor/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/java/ContactEditor/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ContactEditor 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ContactEditor 1.0-SNAPSHOT API'
+com.mycompany.contacteditor
+my.contacteditor
+E:\java\ContactEditor\src\main\java = 1739809834237
+E:\java\ContactEditor\target\generated-sources\annotations = 1739093791192
+E:\java\ContactEditor\target\reports\apidocs\allclasses-index.html = 1739810221192
+E:\java\ContactEditor\target\reports\apidocs\allpackages-index.html = 1739810221192
+E:\java\ContactEditor\target\reports\apidocs\element-list = 1739810221103
+E:\java\ContactEditor\target\reports\apidocs\help-doc.html = 1739810221213
+E:\java\ContactEditor\target\reports\apidocs\index-all.html = 1739810221199
+E:\java\ContactEditor\target\reports\apidocs\index.html = 1739810221166
+E:\java\ContactEditor\target\reports\apidocs\member-search-index.js = 1739810221197
+E:\java\ContactEditor\target\reports\apidocs\module-search-index.js = 1739810221192
+E:\java\ContactEditor\target\reports\apidocs\overview-summary.html = 1739810221199
+E:\java\ContactEditor\target\reports\apidocs\overview-tree.html = 1739810221166
+E:\java\ContactEditor\target\reports\apidocs\package-search-index.js = 1739810221192
+E:\java\ContactEditor\target\reports\apidocs\search.html = 1739810221199
+E:\java\ContactEditor\target\reports\apidocs\serialized-form.html = 1739810221150
+E:\java\ContactEditor\target\reports\apidocs\tag-search-index.js = 1739810221197
+E:\java\ContactEditor\target\reports\apidocs\type-search-index.js = 1739810221192
